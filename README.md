@@ -1,6 +1,6 @@
 # ToDo
 
-<!-- [![GitHub Actions](https://github.com/NadyKamenskaya/Login-Form/actions/workflows/github-actions.yml/badge.svg)](https://github.com/NadyKamenskaya/Login-Form/actions/workflows/github-actions.yml) -->
+[![GitHub Actions](https://github.com/NadyKamenskaya/ToDo/actions/workflows/github-actions.yml/badge.svg)](https://github.com/NadyKamenskaya/ToDo/actions/workflows/github-actions.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8564f828fa549b0b570c/maintainability)](https://codeclimate.com/github/NadyKamenskaya/ToDo/maintainability)
 
 ## Description
@@ -36,7 +36,7 @@ git clone git@github.com:NadyKamenskaya/ToDo.git
 make install
 ```
 
-### App Builder
+### App builder
 
 ```bash
 make run-build
@@ -76,4 +76,4 @@ sudo docker run -d --rm -p 3000:3000 [IMAGE NAME]
 
 _You can try UX/UI-friendly react app by clicking on the link below!_ 👇🏻
 
-[_**Click me**_]()
+[_**Click me**_](https://nady-to-do.vercel.app/)
