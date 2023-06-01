@@ -5,7 +5,7 @@ import Modal from './Modal/index.js';
 import Todos from './Todos/Todos.jsx';
 
 const Content = () => (
-  <Container fluid className="container-xxl p-4">
+  <Container fluid className="p-4">
     <Row>
       <Todos />
     </Row>
